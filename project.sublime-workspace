@@ -26,6 +26,16 @@
 			}
 		},
 		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 1396,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "*.py[cod]"
+			}
+		},
+		{
 			"file": "src/cfehome/settings/production.py",
 			"settings":
 			{
@@ -67,11 +77,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Dev/cfehome",
-		"/C/Dev/cfehome/src",
-		"/C/Dev/cfehome/src/cfehome",
-		"/C/Dev/cfehome/src/cfehome/settings",
-		"/C/Dev/cfehome/src/settings"
+		"/C/Dev/cfehome"
 	],
 	"file_history":
 	[
@@ -109,7 +115,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -139,7 +145,7 @@
 						"translation.y": 1728.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -169,11 +175,40 @@
 						"translation.y": 1836.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"auto_name": "*.py[cod]",
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "src/cfehome/settings/production.py",
 					"semi_transient": false,
 					"settings":
@@ -199,7 +234,7 @@
 						"translation.y": 1890.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

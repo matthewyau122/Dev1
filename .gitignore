@@ -1,9 +1,9 @@
 Include/
 cfehome/
-#Include/
+Include/
 tcl/
 Scripts/
-manage.py
+#manage.py
 *.sublime-project
 
 # Byte-compiled / optimized / DLL files
